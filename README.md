@@ -1,1 +1,3 @@
-Repositorio com o Objetivo de Documentar meu desenvolvimento na linguagem JS
+# Repositorio da linguagem JS
+## links bacanas
+[o que é JavaScript?](https://developer.mozilla.org/pt-BR/docs/Learn/JavaScript/First_steps/What_is_JavaScript)
