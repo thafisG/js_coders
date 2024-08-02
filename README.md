@@ -7,6 +7,8 @@
 <br>
 [Landing Page](https://github.com/thafisG/pagina_apresentacao)
 <br>
+[portifolio com html e css](https://github.com/thafisG/portifolio_html_e_css_2)
+<br>
 ## links bacanas
 [O que é JavaScript?](https://developer.mozilla.org/pt-BR/docs/Learn/JavaScript/First_steps/What_is_JavaScript)
 <br>
